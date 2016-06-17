@@ -1,0 +1,6 @@
+concept,name,concept_type
+people_living_with_hiv,People living with HIV,measure
+estimated_hiv_prevalence_ages_15_49,Estimated HIV Prevalence% - (Ages 15-49),measure
+name,Name,string
+year,Year,time
+country,Country,entity_domain

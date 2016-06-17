@@ -1,0 +1,277 @@
+name,country
+Abkhazia,abkhazia
+Afghanistan,afghanistan
+Akrotiri and Dhekelia,akrotiri_and_dhekelia
+Albania,albania
+Algeria,algeria
+American Samoa,american_samoa
+Andorra,andorra
+Angola,angola
+Anguilla,anguilla
+Antigua and Barbuda,antigua_and_barbuda
+Argentina,argentina
+Armenia,armenia
+Aruba,aruba
+Australia,australia
+Austria,austria
+Azerbaijan,azerbaijan
+Bahamas,bahamas
+Bahrain,bahrain
+Bangladesh,bangladesh
+Barbados,barbados
+Belarus,belarus
+Belgium,belgium
+Belize,belize
+Benin,benin
+Bermuda,bermuda
+Bhutan,bhutan
+Bolivia,bolivia
+Bosnia and Herzegovina,bosnia_and_herzegovina
+Botswana,botswana
+Brazil,brazil
+British Virgin Islands,british_virgin_islands
+Brunei,brunei
+Bulgaria,bulgaria
+Burkina Faso,burkina_faso
+Burundi,burundi
+Cambodia,cambodia
+Cameroon,cameroon
+Canada,canada
+Cape Verde,cape_verde
+Cayman Islands,cayman_islands
+Central African Republic,central_african_republic
+Chad,chad
+Channel Islands,channel_islands
+Chile,chile
+China,china
+Christmas Island,christmas_island
+Cocos Island,cocos_island
+Colombia,colombia
+Comoros,comoros
+"Congo, Dem. Rep.",congo_dem_rep
+"Congo, Rep.",congo_rep
+Cook Is,cook_is
+Costa Rica,costa_rica
+Cote d'Ivoire,cote_d_ivoire
+Croatia,croatia
+Cuba,cuba
+Cyprus,cyprus
+Czech Republic,czech_republic
+Czechoslovakia,czechoslovakia
+Denmark,denmark
+Djibouti,djibouti
+Dominica,dominica
+Dominican Republic,dominican_republic
+East Germany,east_germany
+Ecuador,ecuador
+Egypt,egypt
+El Salvador,el_salvador
+Equatorial Guinea,equatorial_guinea
+Eritrea,eritrea
+Eritrea and Ethiopia,eritrea_and_ethiopia
+Estonia,estonia
+Ethiopia,ethiopia
+Faeroe Islands,faeroe_islands
+Falkland Is (Malvinas),falkland_is_malvinas
+Fiji,fiji
+Finland,finland
+France,france
+French Guiana,french_guiana
+French Polynesia,french_polynesia
+Gabon,gabon
+Gambia,gambia
+Georgia,georgia
+Germany,germany
+Ghana,ghana
+Gibraltar,gibraltar
+Greece,greece
+Greenland,greenland
+Grenada,grenada
+Guadeloupe,guadeloupe
+Guam,guam
+Guatemala,guatemala
+Guernsey,guernsey
+Guinea,guinea
+Guinea-Bissau,guinea_bissau
+Guyana,guyana
+Haiti,haiti
+Holy See,holy_see
+Honduras,honduras
+"Hong Kong, China",hong_kong_china
+Hungary,hungary
+Iceland,iceland
+India,india
+Indonesia,indonesia
+Iran,iran
+Iraq,iraq
+Ireland,ireland
+Isle of Man,isle_of_man
+Israel,israel
+Italy,italy
+Jamaica,jamaica
+Japan,japan
+Jersey,jersey
+Jordan,jordan
+Kazakhstan,kazakhstan
+Kenya,kenya
+Kiribati,kiribati
+North Korea,north_korea
+South Korea,south_korea
+"United Korea (former)
+",united_korea_former
+Kosovo,kosovo
+Kuwait,kuwait
+Kyrgyz Republic,kyrgyz_republic
+Lao,lao
+Latvia,latvia
+Lebanon,lebanon
+Lesotho,lesotho
+Liberia,liberia
+Libya,libya
+Liechtenstein,liechtenstein
+Lithuania,lithuania
+Luxembourg,luxembourg
+"Macao, China",macao_china
+"Macedonia, FYR",macedonia_fyr
+Madagascar,madagascar
+Malawi,malawi
+Malaysia,malaysia
+Maldives,maldives
+Mali,mali
+Malta,malta
+Marshall Islands,marshall_islands
+Martinique,martinique
+Mauritania,mauritania
+Mauritius,mauritius
+Mayotte,mayotte
+Mexico,mexico
+"Micronesia, Fed. Sts.",micronesia_fed_sts
+Moldova,moldova
+Monaco,monaco
+Mongolia,mongolia
+Montenegro,montenegro
+Montserrat,montserrat
+Morocco,morocco
+Mozambique,mozambique
+Myanmar,myanmar
+Namibia,namibia
+Nauru,nauru
+Nepal,nepal
+Netherlands,netherlands
+Netherlands Antilles,netherlands_antilles
+New Caledonia,new_caledonia
+New Zealand,new_zealand
+Ngorno-Karabakh,ngorno_karabakh
+Nicaragua,nicaragua
+Niger,niger
+Nigeria,nigeria
+Niue,niue
+Norfolk Island,norfolk_island
+Northern Cyprus,northern_cyprus
+Northern Mariana Islands,northern_mariana_islands
+Norway,norway
+Oman,oman
+Pakistan,pakistan
+Palau,palau
+Panama,panama
+Papua New Guinea,papua_new_guinea
+Paraguay,paraguay
+Peru,peru
+Philippines,philippines
+Pitcairn,pitcairn
+Poland,poland
+Portugal,portugal
+Puerto Rico,puerto_rico
+Qatar,qatar
+Reunion,reunion
+Romania,romania
+Russia,russia
+Rwanda,rwanda
+St. Barthélemy,st_barthelemy
+St. Helena,st_helena
+St. Kitts and Nevis,st_kitts_and_nevis
+St. Lucia,st_lucia
+St. Martin,st_martin
+St. Vincent and the Grenadines,st_vincent_and_the_grenadines
+St.-Pierre-et-Miquelon,st_pierre_et_miquelon
+Samoa,samoa
+San Marino,san_marino
+Sao Tome and Principe,sao_tome_and_principe
+Saudi Arabia,saudi_arabia
+Senegal,senegal
+Serbia,serbia
+Serbia and Montenegro,serbia_and_montenegro
+Serbia excluding Kosovo,serbia_excluding_kosovo
+Seychelles,seychelles
+Sierra Leone,sierra_leone
+Singapore,singapore
+Slovak Republic,slovak_republic
+Slovenia,slovenia
+Solomon Islands,solomon_islands
+Somalia,somalia
+Somaliland,somaliland
+South Africa,south_africa
+South Ossetia,south_ossetia
+Spain,spain
+Sri Lanka,sri_lanka
+Sudan,sudan
+Suriname,suriname
+Svalbard,svalbard
+Swaziland,swaziland
+Sweden,sweden
+Switzerland,switzerland
+Syria,syria
+Taiwan,taiwan
+Tajikistan,tajikistan
+Tanzania,tanzania
+Thailand,thailand
+Timor-Leste,timor_leste
+Togo,togo
+Tokelau,tokelau
+Tonga,tonga
+Transnistria,transnistria
+Trinidad and Tobago,trinidad_and_tobago
+Tunisia,tunisia
+Turkey,turkey
+Turkmenistan,turkmenistan
+Turks and Caicos Islands,turks_and_caicos_islands
+Tuvalu,tuvalu
+Uganda,uganda
+Ukraine,ukraine
+United Arab Emirates,united_arab_emirates
+United Kingdom,united_kingdom
+United States,united_states
+Uruguay,uruguay
+USSR,ussr
+Uzbekistan,uzbekistan
+Wallis et Futuna,wallis_et_futuna
+Vanuatu,vanuatu
+Venezuela,venezuela
+West Bank and Gaza,west_bank_and_gaza
+West Germany,west_germany
+Western Sahara,western_sahara
+Vietnam,vietnam
+Virgin Islands (U.S.),virgin_islands_u_s
+North Yemen (former),north_yemen_former
+South Yemen (former),south_yemen_former
+Yemen,yemen
+Yugoslavia,yugoslavia
+Zambia,zambia
+Zimbabwe,zimbabwe
+Åland,aland
+South Sudan,south_sudan
+Christian,christian
+Coastline,coastline
+Curaçao,curacao
+Sint Maarten (Dutch part),sint_maarten_dutch_part
+St. Martin (French part),st_martin_french_part
+Antarctica,antarctica
+"Virgin Islands, British",virgin_islands_british
+Hawaiian Trade Zone,hawaiian_trade_zone
+U.S. Pacific Islands,u_s_pacific_islands
+Wake Island,wake_island
+Bonaire,bonaire
+Sark,sark
+Chinese Taipei,chinese_taipei
+Saint Eustatius,saint_eustatius
+Saba,saba
