@@ -18,6 +18,7 @@ def extract_datapoints(data, cname):
     data = data.unstack()
     data = data.reset_index()
     data.columns = ['year', 'country', cname]
+    data['country'] = data['country'].map(to_concept_id)
     return data.dropna().sort_values(by=['country', 'year'])
 
 
