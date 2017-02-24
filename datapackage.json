@@ -1,0 +1,83 @@
+{
+    "name": "ddf--gapminder--hist_hiv",
+    "language": {
+        "id": "en"
+    },
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "primaryKey": "concept",
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--estimated_hiv_prevalence_ages_15_49--by--country--year.csv",
+            "name": "ddf--datapoints--estimated_hiv_prevalence_ages_15_49--by--country--year",
+            "schema": {
+                "primaryKey": [
+                    "country",
+                    "year"
+                ],
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "estimated_hiv_prevalence_ages_15_49"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--people_living_with_hiv--by--country--year.csv",
+            "name": "ddf--datapoints--people_living_with_hiv--by--country--year",
+            "schema": {
+                "primaryKey": [
+                    "country",
+                    "year"
+                ],
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "people_living_with_hiv"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--country.csv",
+            "name": "ddf--entities--country",
+            "schema": {
+                "primaryKey": "country",
+                "fields": [
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "country"
+                    }
+                ]
+            }
+        }
+    ]
+}
